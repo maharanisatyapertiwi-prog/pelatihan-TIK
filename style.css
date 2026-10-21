@@ -18,16 +18,16 @@ box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
   width: 150px;
   border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
-.karu-profil {
+.kartu-profil {
   /* <!DOCTYPE html>
 <html>
-<head>
+<head><link rel="stylesheet" href="style.css">
     <title>rani</title>
 </head>
 <body>
 
     <!-- Menampilkan Foto -->
-    <img src="rani.jpg" alt="maharani satya pertiwi" width="200">
+    <img src="foto run.jpeg.jpeg" alt="maharani satya pertiwi" width="200">
 
     <!-- Nama Utama -->
     <h1>maharani satya pertiwi</h1>
@@ -49,4 +49,4 @@ box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
 </html>
   text-align: center; /* menengahkan semua teks di dalam kartu */
 }
-! {maharani satya pertiwi}{foto run.jpeg.jpeg}
+
