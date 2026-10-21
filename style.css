@@ -41,7 +41,9 @@ box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
     <br><br>
 
     <!-- Tombol Sapaan -->
-    <button id="sapabutton">sapa saya</button>
+    <button onclick="alert(Halo,selamat datang di website saya!">sapa saya</button>
+
+  </div>
 
 </body>
 </html>
